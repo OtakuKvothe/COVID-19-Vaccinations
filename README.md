@@ -3,6 +3,8 @@ An in-depth analysis into the vaccination progress around the world using Python
 
 Using data on the availability and administration of vaccines, I have been able to bring out a comprehensive view into the availability of vaccines worldwide, the progress of 100% vaccination and thr vsvvinstion trends in India.
 
+Please view COVID-19 Vaccinations.ipynb file for in-depth analysis.
+
 ![Screenshot 2021-07-18 174110](https://user-images.githubusercontent.com/36073547/126066500-b47bd2ca-2ecb-4273-936f-628e3cf685c9.png)
 
 
