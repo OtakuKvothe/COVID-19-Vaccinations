@@ -1,7 +1,7 @@
 # COVID-19-Vaccinations
 An in-depth analysis into the vaccination progress around the world using Python, Jupyter Notebook, Pandas and Seaborn.
 
-Using data on the availability and administration of vaccines, I have been able to bring out a comprehensive view into the availability of vaccines worldwide, the progress of 100% vaccination and thr vsvvinstion trends in India.
+Using data on the availability and administration of vaccines, I have been able to bring out a comprehensive view into the availability of vaccines worldwide, the progress of 100% vaccination and the vaccination trends in India.
 
 ![Screenshot 2021-08-02 113554](https://user-images.githubusercontent.com/36073547/127811961-db9df856-1b75-457e-a87e-7140a883b3ff.png)
 
